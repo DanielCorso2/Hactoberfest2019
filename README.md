@@ -45,4 +45,6 @@ Hacktoberfest Classroom Project 2019
 [josemorales7](https://github.com/josemorales7/)
 ---
 ### Daniel
-[DanielCorso2](https:// github.com/DanielCorso2/)
+[DanielCorso2](https://github.com/DanielCorso2/)
+>I like code.
+---
